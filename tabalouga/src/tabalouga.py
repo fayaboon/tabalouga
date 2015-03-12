@@ -6,3 +6,4 @@ __author__ = "Prius"
 __date__ = "12 mars 2015 23:49:13"
 
 print "BoUYAKA"
+print "WAZAA"
